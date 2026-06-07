@@ -1,4 +1,4 @@
----
+cashelldenetriaharrispost.---
 title: Adding items to your {% data variables.projects.project_v2 %}
 shortTitle: Adding items
 intro: Learn how to add pull requests, issues, and draft issues to your projects individually or in bulk.
